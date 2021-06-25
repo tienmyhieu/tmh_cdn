@@ -1,0 +1,21 @@
+{
+  "uuid": "xrl6i20b",
+  "href": "",
+  "title": "jfc47cob",
+  "notes": [],
+  "identifier": "1985,1035.64",
+  "url": "http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3410865&partId=1",
+  "measurements": [
+    { "uuid": "ivtaomuz", "diameter": "51.00", "weight": "31.63", "year": "1985" }
+  ],
+  "images": [
+    { "uuid": "o8zmrolo", "src": "da98246960684238968be0e6004ebc5d-1.png", "title": "jswt580e" },
+    { "uuid": "fhl8z5vk", "src": "da98246960684238968be0e6004ebc5d-2.png", "title": "jswt580e" },
+    { "uuid": "7yq8kh2h", "src": "eabc8ca05f3045d79e36ec6cf5a4ed5c-1.png", "title": "jswt580e" },
+    { "uuid": "32aoekif", "src": "eabc8ca05f3045d79e36ec6cf5a4ed5c-2.png", "title": "jswt580e" }
+  ],
+  "image_groups": [
+    { "uuid": "71zx0qlf", "images": ["o8zmrolo", "fhl8z5vk"], "measurements": "ivtaomuz" },
+    { "uuid": "xu1fpxk9", "images": ["7yq8kh2h", "32aoekif"], "measurements": "ivtaomuz" }
+  ]
+}
