@@ -3,5 +3,9 @@
   "href": "",
   "title": "i60n25kn",
   "emperor": { "uuid": "4n18conu", "href": "", "title": "syqewlhz" },
+  "ancestors": [
+    { "uuid": "2j0vebyq", "href": "", "title": "qsq5oknm" },
+    { "uuid": "08w1apoy", "href": "", "title": "yieylovr" }
+  ],
   "emperor_coins": []
 }

@@ -3,6 +3,10 @@
   "href": "",
   "title": "8o5ol3hi",
   "emperor": { "uuid": "zn6uo1wi", "href": "", "title": "bn3shibu" },
+  "ancestors": [
+    { "uuid": "2j0vebyq", "href": "", "title": "qsq5oknm" },
+    { "uuid": "08w1apoy", "href": "", "title": "yieylovr" }
+  ],
   "emperor_coins": [
     { "uuid": "p3un6hvj", "href": "", "title": "nz430yue", "specimens": ["dvf32b6b"] },
     { "uuid": "sn6nqkzl", "href": "", "title": "x0poakuu", "specimens": ["p94eao2o"] },

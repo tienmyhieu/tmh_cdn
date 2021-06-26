@@ -192,6 +192,8 @@
   { "uuid": "l83wv87u", "href": "", "title": "Tự Đức thông bảo Trị công đỉnh thịnh", "type": "coin_emperor", "identifier": "imammzs8" },
   { "uuid": "qdugszrn", "href": "", "title": "Tự Đức thông bảo Thứ chính duy hòa", "type": "coin_emperor", "identifier": "fc0lhgka" },
 
+  { "uuid": "qsq5oknm", "href": "", "title": "Tham khảo", "type": "list", "identifier": "2j0vebyq" },
+
   { "uuid": "yieylovr", "href": "", "title": "Viện bảo tàng Anh", "type": "reference", "identifier": "08w1apoy" },
   { "uuid": "2tyiroc3", "href": "", "title": "Viện bảo tàng Anh Minh Mệnh thông bảo", "type": "collection", "identifier": "qudcz37f" },
   { "uuid": "i60n25kn", "href": "", "title": "Viện bảo tàng Anh Thiệu Trị thông bảo", "type": "collection", "identifier": "lxt077rw" },
