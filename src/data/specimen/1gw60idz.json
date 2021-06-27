@@ -9,10 +9,14 @@
   ],
   "notes": [],
   "identifier": "1992,0227.48",
-  "url": "http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3410868&partId=1",
+  "urls": [
+    { "uuid": "jpjy8m6o", "lexicon": "source", "href": "http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3410868&partId=1"}
+  ],
   "measurements": [
-    { "uuid": "07tytd0w", "diameter": "51.00", "weight": "42.11", "year": "1984" }
+    { "uuid": "07tytd0w", "diameter": "51.00", "weight": "37.76", "year": "1992" }
   ],
   "images": [],
-  "image_groups": []
+  "image_groups": [
+    { "uuid": "cah6ipqw", "images": [], "measurements": "07tytd0w", "urls": ["jpjy8m6o"] }
+  ]
 }

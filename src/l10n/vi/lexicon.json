@@ -1,5 +1,10 @@
 {
   "collections": "Bộ sưu tập",
+  "diameter": "Đường kình",
+  "obverse": "Mặt tiền",
   "references" : "Tham khảo",
-  "tien_my_hieu": "Tiền mỹ hiệu"
+  "reverse": "Lưng tiền",
+  "source": "Nguồn",
+  "tien_my_hieu": "Tiền mỹ hiệu",
+  "weight": "Trọng lượng"
 }

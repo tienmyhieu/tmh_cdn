@@ -9,7 +9,9 @@
   ],
   "notes": [],
   "identifier": "1984,0718.14",
-  "url": "http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3410867&partId=1",
+  "urls": [
+    { "uuid": "4lu7nubq", "lexicon": "source", "href": "http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3410867&partId=1"}
+  ],
   "measurements": [
     { "uuid": "q4w00rke", "diameter": "51.00", "weight": "42.11", "year": "1984" }
   ],
@@ -20,7 +22,7 @@
     { "uuid": "0g8tpmpb", "src": "3450c108cf2b4f2c9c1078de9d453f7a-2.png", "title": "yx0dho5z" }
   ],
   "image_groups": [
-    { "uuid": "nxstfud2", "images": ["zbqc8zls", "ep4uh8y6"], "measurements": "q4w00rke" },
-    { "uuid": "9o2b4zs7", "images": ["duix492n", "0g8tpmpb"], "measurements": "q4w00rke" }
+    { "uuid": "nxstfud2", "images": ["zbqc8zls", "ep4uh8y6"], "measurements": "q4w00rke", "urls": ["4lu7nubq"] },
+    { "uuid": "9o2b4zs7", "images": ["duix492n", "0g8tpmpb"], "measurements": "q4w00rke", "urls": ["4lu7nubq"] }
   ]
 }
