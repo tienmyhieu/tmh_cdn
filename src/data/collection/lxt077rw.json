@@ -7,5 +7,16 @@
     { "uuid": "2j0vebyq", "href": "", "title": "qsq5oknm" },
     { "uuid": "08w1apoy", "href": "", "title": "yieylovr" }
   ],
-  "emperor_coins": []
+  "emperor_coins": [
+    { "uuid": "56xjrq33", "href": "", "title": "tflw2jqz", "specimens": [] },
+    { "uuid": "yf8tilpc", "href": "", "title": "o6mf7ven", "specimens": ["4i12biel"] },
+    { "uuid": "9rkcc8x3", "href": "", "title": "jnbryp0v", "specimens": ["3dbhodss"] },
+    { "uuid": "wgeenaoq", "href": "", "title": "avvd2dn0", "specimens": ["ghgxiqm8"] },
+    { "uuid": "zq1qj9qd", "href": "", "title": "ac2xm18w", "specimens": [] },
+    { "uuid": "ttlnb3hy", "href": "", "title": "j5or39g2", "specimens": ["3hextdu4"] },
+    { "uuid": "cfsuyx53", "href": "", "title": "34ack7cl", "specimens": [] },
+    { "uuid": "un1fb8rj", "href": "", "title": "uy8tagiv", "specimens": [] },
+    { "uuid": "31b81jgf", "href": "", "title": "gcbgwjcb", "specimens": ["fsgr077p"] },
+    { "uuid": "fezhzl9c", "href": "", "title": "nfqce39s", "specimens": ["koh5tnem"] }
+  ]
 }

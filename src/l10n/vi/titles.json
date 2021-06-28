@@ -194,14 +194,25 @@
 
   { "uuid": "qsq5oknm", "href": "", "title": "Tham khảo", "type": "list", "identifier": "2j0vebyq" },
 
-  { "uuid": "yieylovr", "href": "", "title": "Viện bảo tàng Anh", "type": "reference", "identifier": "08w1apoy" },
-  { "uuid": "2tyiroc3", "href": "", "title": "Viện bảo tàng Anh Minh Mệnh thông bảo", "type": "collection", "identifier": "qudcz37f" },
-  { "uuid": "i60n25kn", "href": "", "title": "Viện bảo tàng Anh Thiệu Trị thông bảo", "type": "collection", "identifier": "lxt077rw" },
-  { "uuid": "8o5ol3hi", "href": "", "title": "Viện bảo tàng Anh Tự Đức thông bảo", "type": "collection", "identifier": "8euh7b56" },
+  { "uuid": "yieylovr", "href": "", "title": "Bảo tàng Anh", "type": "reference", "identifier": "08w1apoy" },
+  { "uuid": "2tyiroc3", "href": "", "title": "Bảo tàng Anh Minh Mệnh thông bảo", "type": "collection", "identifier": "qudcz37f" },
+  { "uuid": "i60n25kn", "href": "", "title": "Bảo tàng Anh Thiệu Trị thông bảo", "type": "collection", "identifier": "lxt077rw" },
+  { "uuid": "8o5ol3hi", "href": "", "title": "Bảo tàng Anh Tự Đức thông bảo", "type": "collection", "identifier": "8euh7b56" },
 
-  { "uuid": "81jokh6w", "href": "", "title": "Viện bảo tàng Anh Tự Đức thông bảo Phúc như đông hải thọ tỳ nam sơn", "type": "specimen", "identifier": "dvf32b6b" },
-  { "uuid": "2szf6gzm", "href": "", "title": "Viện bảo tàng Anh Tự Đức thông bảo Liễm phúc tích dân", "type": "specimen", "identifier": "p94eao2o" },
-  { "uuid": "jfc47cob", "href": "", "title": "Viện bảo tàng Anh Tự Đức thông bảo Cao minh phối thiên bạc hậu phối địa", "type": "specimen", "identifier": "xrl6i20b" },
-  { "uuid": "0noshqd0", "href": "", "title": "Viện bảo tàng Anh Tự Đức thông bảo Thụ lộc vu thiên bảo hựu mạng chi", "type": "specimen", "identifier": "t907uqxt" },
-  { "uuid": "adkywkt1", "href": "", "title": "Viện bảo tàng Anh Tự Đức thông bảo Thụ lộc vu thiên bảo hựu mạng chi 2", "type": "specimen", "identifier": "1gw60idz" }
+  { "uuid": "4ls933dp", "href": "", "title": "Bảo tàng Anh Thiệu Trị thông bảo Truy trác kỳ chương kim ngọc kỳ tương", "type": "specimen", "identifier": "wxw6tkh6" },
+  { "uuid": "e1imf10d", "href": "", "title": "Bảo tàng Anh Thiệu Trị thông bảo Đế đức quảng vận", "type": "specimen", "identifier": "4i12biel" },
+  { "uuid": "ml60bhpe", "href": "", "title": "Bảo tàng Anh Thiệu Trị thông bảo Trung hoà vị dục", "type": "specimen", "identifier": "3dbhodss" },
+  { "uuid": "m4po96w4", "href": "", "title": "Bảo tàng Anh Thiệu Trị thông bảo Cương kiện trung chính", "type": "specimen", "identifier": "ghgxiqm8" },
+  { "uuid": "555utd6n", "href": "", "title": "Bảo tàng Anh Thiệu Trị thông bảo Tứ hải cộng chi vạn thế truyền chi", "type": "specimen", "identifier": "w06lozim" },
+  { "uuid": "r7ch2ios", "href": "", "title": "Bảo tàng Anh Thiệu Trị thông bảo Tự thiên hựu chi cát vô bất lợi", "type": "specimen", "identifier": "3hextdu4" },
+  { "uuid": "46kqln4a", "href": "", "title": "Bảo tàng Anh Thiệu Trị thông bảo Nhất nhân hữu khánh triệu dân lại chi", "type": "specimen", "identifier": "agam7g81" },
+  { "uuid": "suav568e", "href": "", "title": "Bảo tàng Anh Thiệu Trị thông bảo Trạch cập đang thì ân thuỳ vạn thế", "type": "specimen", "identifier": "jsyzf31r" },
+  { "uuid": "eop9a2es", "href": "", "title": "Bảo tàng Anh Thiệu Trị thông bảo Thọ khảo vạn niên", "type": "specimen", "identifier": "fsgr077p" },
+  { "uuid": "wjgu7e2k", "href": "", "title": "Bảo tàng Anh Thiệu Trị thông bảo Giải ôn phụ tài", "type": "specimen", "identifier": "koh5tnem" },
+
+  { "uuid": "81jokh6w", "href": "", "title": "Bảo tàng Anh Tự Đức thông bảo Phúc như đông hải thọ tỳ nam sơn", "type": "specimen", "identifier": "dvf32b6b" },
+  { "uuid": "2szf6gzm", "href": "", "title": "Bảo tàng Anh Tự Đức thông bảo Liễm phúc tích dân", "type": "specimen", "identifier": "p94eao2o" },
+  { "uuid": "jfc47cob", "href": "", "title": "Bảo tàng Anh Tự Đức thông bảo Cao minh phối thiên bạc hậu phối địa", "type": "specimen", "identifier": "xrl6i20b" },
+  { "uuid": "0noshqd0", "href": "", "title": "Bảo tàng Anh Tự Đức thông bảo Thụ lộc vu thiên bảo hựu mạng chi", "type": "specimen", "identifier": "t907uqxt" },
+  { "uuid": "adkywkt1", "href": "", "title": "Bảo tàng Anh Tự Đức thông bảo Thụ lộc vu thiên bảo hựu mạng chi 2", "type": "specimen", "identifier": "1gw60idz" }
 ]

@@ -1,0 +1,28 @@
+{
+  "uuid": "3dbhodss",
+  "href": "",
+  "title": "ml60bhpe",
+  "ancestors": [
+    { "uuid": "2j0vebyq", "href": "", "title": "qsq5oknm" },
+    { "uuid": "08w1apoy", "href": "", "title": "yieylovr" },
+    { "uuid": "lxt077rw", "href": "", "title": "i60n25kn" }
+  ],
+  "notes": [],
+  "identifier": "1983,0619.265",
+  "urls": [
+    { "uuid": "j2afpf05", "lexicon": "source", "href": "http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3410819&partId=1"}
+  ],
+  "measurements": [
+    { "uuid": "5byai7jh", "diameter": "53.00", "weight": "40.72", "year": "1983" }
+  ],
+  "images": [
+    { "uuid": "wcnaw571", "src": "dca776a7cd3049b39954d5119cc8af04-1.png", "title": "jnbryp0v" },
+    { "uuid": "n6ebipo3", "src": "dca776a7cd3049b39954d5119cc8af04-2.png", "title": "jnbryp0v" },
+    { "uuid": "bj8ihf7u", "src": "c69bc8e1ab354f1a8adbcf403c772623-1.png", "title": "jnbryp0v" },
+    { "uuid": "ehdvspn6", "src": "c69bc8e1ab354f1a8adbcf403c772623-2.png", "title": "jnbryp0v" }
+  ],
+  "image_groups": [
+    { "uuid": "lcokhxf9", "images": ["wcnaw571", "n6ebipo3"], "measurements": "5byai7jh", "urls": ["j2afpf05"] },
+    { "uuid": "2w54fg8i", "images": ["bj8ihf7u", "ehdvspn6"], "measurements": "5byai7jh", "urls": ["j2afpf05"] }
+  ]
+}
