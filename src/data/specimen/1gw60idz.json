@@ -2,7 +2,10 @@
   "uuid": "1gw60idz",
   "href": "",
   "title": "adkywkt1",
+  "metadata": {},
+  "type": "specimen",
   "ancestors": [
+    { "uuid": "jwdxeuqn", "href": "/", "title": "umd0xr1h" },
     { "uuid": "2j0vebyq", "href": "", "title": "qsq5oknm" },
     { "uuid": "08w1apoy", "href": "", "title": "yieylovr" },
     { "uuid": "8euh7b56", "href": "", "title": "8o5ol3hi" }

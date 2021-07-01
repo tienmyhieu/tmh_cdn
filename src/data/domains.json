@@ -1,0 +1,10 @@
+[
+  { "domain": "tienmyhieu.com", "language": "vi", "locale": "vi_VN" },
+  { "domain": "en.tienmyhieu.com", "language": "en", "locale": "en_GB" },
+  { "domain": "fr.tienmyhieu.com", "language": "fr", "locale": "fr_FR" },
+  { "domain": "ja.tienmyhieu.com", "language": "ja", "locale": "ja_JP" },
+  { "domain": "vi.tienmyhieu.com", "language": "vi", "locale": "vi_VN" },
+  { "domain": "www.tienmyhieu.com", "language": "vi", "locale": "vi_VN" },
+  { "domain": "zh-hans.tienmyhieu.com", "language": "zh_hans", "locale": "zh_HK" },
+  { "domain": "zh-hant.tienmyhieu.com", "language": "zh_hant", "locale": "zh_CN" }
+]

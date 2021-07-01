@@ -2,7 +2,10 @@
   "uuid": "p94eao2o",
   "href": "",
   "title": "2szf6gzm",
+  "type": "specimen",
+  "emperor": { "uuid": "zn6uo1wi", "href": "", "title": "bn3shibu" },
   "ancestors": [
+    { "uuid": "jwdxeuqn", "href": "/", "title": "umd0xr1h" },
     { "uuid": "2j0vebyq", "href": "", "title": "qsq5oknm" },
     { "uuid": "08w1apoy", "href": "", "title": "yieylovr" },
     { "uuid": "8euh7b56", "href": "", "title": "8o5ol3hi" }
@@ -13,7 +16,8 @@
     { "uuid": "e5qokvxl", "lexicon": "source", "href": "http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3410847&partId=1"}
   ],
   "measurements": [
-    { "uuid": "ersdog0n", "diameter": "49.00", "weight": "33.10", "year": "1984" }
+    { "uuid": "d6x3dug3", "lexicon": "diameter", "unit": "mm", "value": "49.00" },
+    { "uuid": "p9mv7kd3", "lexicon": "weight", "unit": "g", "value": "33.10" }
   ],
   "images": [
     { "uuid": "ua6jgqmm", "src": "cbb715bb06ce43d78f045204450aa5e6-1.png", "title": "x0poakuu" },
@@ -21,8 +25,11 @@
     { "uuid": "aotigz89", "src": "9e37ac2a1c2244f289e7931230de8247-1.png", "title": "x0poakuu" },
     { "uuid": "cj9ycokq", "src": "9e37ac2a1c2244f289e7931230de8247-2.png", "title": "x0poakuu" }
   ],
+  "metadata": [
+    { "uuid": "hkbrfz1g", "measurements": ["d6x3dug3", "p9mv7kd3"] }
+  ],
   "image_groups": [
-    { "uuid": "g5m13rue", "images": ["ua6jgqmm", "yrxw3r3o"], "measurements": "ersdog0n", "urls": ["e5qokvxl"] },
-    { "uuid": "cc0vdvjw", "images": ["aotigz89", "cj9ycokq"], "measurements": "ersdog0n", "urls": ["e5qokvxl"] }
+    { "uuid": "g5m13rue", "images": ["ua6jgqmm", "yrxw3r3o"] },
+    { "uuid": "cc0vdvjw", "images": ["aotigz89", "cj9ycokq"] }
   ]
 }

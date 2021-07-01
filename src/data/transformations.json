@@ -1,0 +1,62 @@
+{
+  "collection": {
+    "arrays": {
+      "ancestors": { "dependencies": [], "href": "1", "lexicon": "0", "title": "1" },
+      "images": { "dependencies": [], "href": "0", "lexicon": "0", "title": "1" },
+      "measurements": { "dependencies": [], "href": "0", "lexicon": "1", "title": "0" },
+      "notes": { "dependencies": [], "href": "0", "lexicon": "1", "title": "0" },
+      "urls": {  "dependencies": [], "href": "0", "lexicon": "1", "title": "0" },
+      "metadata": {  "dependencies": ["measurements"], "href": "0", "lexicon": "0", "title": "0" },
+      "specimens": { "dependencies": ["images", "metadata", "notes", "urls"], "href": "1", "lexicon": "0", "title": "1" }
+    },
+    "objects": {
+      "emperor": { "dependencies": [], "href": "1", "lexicon": "0", "title": "1" }
+    },
+    "children": {
+      "emperor_coins": { "dependencies": ["specimens"], "href": "1", "lexicon": "0", "title": "1" }
+    }
+  },
+  "entity_list": {
+    "arrays": {
+      "ancestors": { "dependencies": [], "href": "1", "lexicon": "0", "title": "1" }
+    },
+    "objects": {},
+    "children": {
+      "entities": { "dependencies": [], "href": "1", "lexicon": "0", "title": "1" }
+    }
+  },
+  "home": {
+    "arrays": {
+      "references": { "dependencies": [], "href": "1", "lexicon": "0", "title": "1" }
+    },
+    "objects": {},
+    "children": {
+      "lists": { "dependencies": [], "href": "1", "lexicon": "0", "title": "1" }
+    }
+  },
+  "reference": {
+    "arrays": {
+      "ancestors": { "dependencies": [], "href": "1", "lexicon": "0", "title": "1" }
+    },
+    "objects": {},
+    "children": {
+      "collections": { "dependencies": [], "href": "1", "lexicon": "0", "title": "1" }
+    }
+  },
+  "specimen": {
+    "arrays": {
+      "ancestors": { "dependencies": [], "href": "1", "lexicon": "0", "title": "1" },
+      "images": { "dependencies": [], "href": "0", "lexicon": "0", "title": "1" },
+      "measurements": { "dependencies": [], "href": "0", "lexicon": "1", "title": "0" },
+      "notes": { "dependencies": [], "href": "0", "lexicon": "1", "title": "0" },
+      "urls": {  "dependencies": [], "href": "0", "lexicon": "1", "title": "0" },
+      "metadata": {  "dependencies": ["measurements"], "href": "0", "lexicon": "0", "title": "0" }
+    },
+    "objects": {
+      "emperor": { "dependencies": [], "href": "1", "lexicon": "0", "title": "1" }
+    },
+    "children": {
+      "image_groups": { "dependencies": ["images"], "href": "0", "lexicon": "0", "title": "0" }
+    }
+  }
+}

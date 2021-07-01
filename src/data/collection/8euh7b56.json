@@ -2,15 +2,59 @@
   "uuid": "8euh7b56",
   "href": "",
   "title": "8o5ol3hi",
+  "type": "collection",
+  "notes": [],
   "emperor": { "uuid": "zn6uo1wi", "href": "", "title": "bn3shibu" },
   "ancestors": [
+    { "uuid": "jwdxeuqn", "href": "/", "title": "umd0xr1h" },
     { "uuid": "2j0vebyq", "href": "", "title": "qsq5oknm" },
     { "uuid": "08w1apoy", "href": "", "title": "yieylovr" }
+  ],
+  "images": [
+    { "uuid": "8ce5fiq0", "src": "bfed72cbcc4748c1988c3bb0135e18da-1.png", "title": "nz430yue" },
+    { "uuid": "4qm2ab05", "src": "bfed72cbcc4748c1988c3bb0135e18da-2.png", "title": "nz430yue" },
+    { "uuid": "ua6jgqmm", "src": "cbb715bb06ce43d78f045204450aa5e6-1.png", "title": "x0poakuu" },
+    { "uuid": "yrxw3r3o", "src": "cbb715bb06ce43d78f045204450aa5e6-2.png", "title": "x0poakuu" },
+    { "uuid": "o8zmrolo", "src": "da98246960684238968be0e6004ebc5d-1.png", "title": "jswt580e" },
+    { "uuid": "fhl8z5vk", "src": "da98246960684238968be0e6004ebc5d-2.png", "title": "jswt580e" },
+    { "uuid": "zbqc8zls", "src": "8df468f82c2f4353ab44b00d0216b1da-1.png", "title": "yx0dho5z" },
+    { "uuid": "ep4uh8y6", "src": "8df468f82c2f4353ab44b00d0216b1da-2.png", "title": "yx0dho5z" }
+  ],
+  "measurements": [
+    { "uuid": "d6x3dug3", "lexicon": "diameter", "unit": "mm", "value": "49.00" },
+    { "uuid": "i9d60vhh", "lexicon": "diameter", "unit": "mm", "value": "50.00" },
+    { "uuid": "rj0na7jk", "lexicon": "diameter", "unit": "mm", "value": "51.00" },
+    { "uuid": "a7h26fh3", "lexicon": "weight", "unit": "g", "value": "35.13" },
+    { "uuid": "p9mv7kd3", "lexicon": "weight", "unit": "g", "value": "33.10" },
+    { "uuid": "fbvzmy0n", "lexicon": "weight", "unit": "g", "value": "31.63" },
+    { "uuid": "3tbvj42v", "lexicon": "weight", "unit": "g", "value": "42.11" },
+    { "uuid": "zecy7hb8", "lexicon": "weight", "unit": "g", "value": "37.76" }
+  ],
+  "urls": [
+    { "uuid": "1u97gqr1", "lexicon": "source", "href": "http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3410863&partId=1" },
+    { "uuid": "e5qokvxl", "lexicon": "source", "href": "http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3410847&partId=1" },
+    { "uuid": "3fim2ske", "lexicon": "source", "href": "http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3410865&partId=1" },
+    { "uuid": "4lu7nubq", "lexicon": "source", "href": "http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3410867&partId=1" },
+    { "uuid": "jpjy8m6o", "lexicon": "source", "href": "http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3410868&partId=1" }
+  ],
+  "metadata": [
+    { "uuid": "rupn6m3s", "measurements": ["i9d60vhh", "a7h26fh3"] },
+    { "uuid": "hkbrfz1g", "measurements": ["d6x3dug3", "p9mv7kd3"] },
+    { "uuid": "cyj0za67", "measurements": ["rj0na7jk", "fbvzmy0n"] },
+    { "uuid": "e84wy3v4", "measurements": ["rj0na7jk", "3tbvj42v"] },
+    { "uuid": "2nxqg16g", "measurements": ["rj0na7jk", "zecy7hb8"] }
+  ],
+  "specimens": [
+    { "uuid": "dvf32b6b", "metadata": ["rupn6m3s"], "href": "", "title": "81jokh6w", "notes": [], "identifier": "1984,0718.13", "urls": ["1u97gqr1"], "is_entity": "1", "images": ["8ce5fiq0", "4qm2ab05"] },
+    { "uuid": "p94eao2o", "metadata": ["hkbrfz1g"], "href": "", "title": "2szf6gzm", "notes": [], "identifier": "1984,0718.15", "urls": ["e5qokvxl"], "is_entity": "1", "images": ["ua6jgqmm", "yrxw3r3o"] },
+    { "uuid": "xrl6i20b", "metadata": ["cyj0za67"], "href": "", "title": "jfc47cob", "notes": [], "identifier": "1985,1035.64", "urls": ["3fim2ske"], "is_entity": "1", "images": ["o8zmrolo", "fhl8z5vk"] },
+    { "uuid": "t907uqxt", "metadata": ["e84wy3v4"], "href": "", "title": "0noshqd0", "notes": [], "identifier": "1984,0718.14", "urls": ["4lu7nubq"], "is_entity": "1", "images": ["zbqc8zls", "ep4uh8y6"] },
+    { "uuid": "1gw60idz", "metadata": ["2nxqg16g"], "href": "", "title": "adkywkt1", "notes": [], "identifier": "1992,0227.48", "urls": ["jpjy8m6o"], "is_entity": "0", "images": [] }
   ],
   "emperor_coins": [
     { "uuid": "p3un6hvj", "href": "", "title": "nz430yue", "specimens": ["dvf32b6b"] },
     { "uuid": "sn6nqkzl", "href": "", "title": "x0poakuu", "specimens": ["p94eao2o"] },
     { "uuid": "nhcfektj", "href": "", "title": "jswt580e", "specimens": ["xrl6i20b"] },
-    { "uuid": "wtieu66a", "href": "", "title": "yx0dho5z", "specimens": ["t907uqxt"] }
+    { "uuid": "wtieu66a", "href": "", "title": "yx0dho5z", "specimens": ["t907uqxt", "1gw60idz"] }
   ]
 }

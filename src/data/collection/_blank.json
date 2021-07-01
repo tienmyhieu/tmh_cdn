@@ -1,0 +1,19 @@
+{
+  "uuid": "zzz",
+  "href": "",
+  "title": "zzz",
+  "type": "zzz",
+  "notes": [],
+  "emperor": { "uuid": "zzz", "href": "", "title": "zzz" },
+  "ancestors": [
+    { "uuid": "jwdxeuqn", "href": "/", "title": "umd0xr1h" },
+    { "uuid": "2j0vebyq", "href": "", "title": "qsq5oknm" },
+    { "uuid": "zzz", "href": "", "title": "zzz" }
+  ],
+  "images": [],
+  "measurements": [],
+  "urls": [],
+  "metadata": [],
+  "specimens": [],
+  "emperor_coins": []
+}
