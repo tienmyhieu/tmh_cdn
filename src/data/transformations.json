@@ -10,7 +10,8 @@
       "specimens": { "dependencies": ["images", "metadata", "notes", "urls"], "href": "1", "lexicon": "0", "title": "1" }
     },
     "objects": {
-      "emperor": { "dependencies": [], "href": "1", "lexicon": "0", "title": "1" }
+      "emperor": { "dependencies": [], "href": "1", "lexicon": "0", "title": "1" },
+      "reference": { "dependencies": [], "href": "1", "lexicon": "0", "title": "1" }
     },
     "children": {
       "emperor_coins": { "dependencies": ["specimens"], "href": "1", "lexicon": "0", "title": "1" }
