@@ -23,12 +23,12 @@
     },
     "objects": {},
     "children": {
-      "entities": { "dependencies": [], "href": "1", "lexicon": "0", "title": "1" }
+      "entities": { "dependencies": [], "href": "1", "lexicon": "1", "title": "1" }
     }
   },
   "home": {
     "arrays": {
-      "references": { "dependencies": [], "href": "1", "lexicon": "0", "title": "1" }
+      "references": { "dependencies": [], "href": "1", "lexicon": "1", "title": "1" }
     },
     "objects": {},
     "children": {
@@ -41,7 +41,7 @@
     },
     "objects": {},
     "children": {
-      "collections": { "dependencies": [], "href": "1", "lexicon": "0", "title": "1" }
+      "collections": { "dependencies": [], "href": "1", "lexicon": "1", "title": "1" }
     }
   },
   "specimen": {
