@@ -1,0 +1,21 @@
+{
+  "uuid": "hi29m7z8",
+  "href": "",
+  "title": "7z3ehy1p",
+  "type": "collection",
+  "og_image": "d885932914784e08946c32114f1008c7-1",
+  "notes": [],
+  "emperor": { "uuid": "zn6uo1wi", "href": "", "title": "bn3shibu" },
+  "reference": { "uuid": "knsmgzuq", "href": "", "title": "gtk57y51" },
+  "ancestors": [
+    { "uuid": "jwdxeuqn", "href": "/", "title": "umd0xr1h" },
+    { "uuid": "2j0vebyq", "href": "", "title": "qsq5oknm" },
+    { "uuid": "knsmgzuq", "href": "", "title": "gtk57y51" }
+  ],
+  "images": [],
+  "measurements": [],
+  "urls": [],
+  "metadata": [],
+  "specimens": [],
+  "emperor_coins": []
+}
