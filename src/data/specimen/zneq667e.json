@@ -1,0 +1,34 @@
+{
+  "uuid": "zneq667e",
+  "href": "",
+  "title": "e4c4k7cn",
+  "type": "specimen",
+  "og_image": "b76afaff3f714dfd9a0f0431166a4ce9-2.png",
+  "emperor": { "uuid": "4n18conu", "href": "", "title": "syqewlhz" },
+  "ancestors": [
+    { "uuid": "jwdxeuqn", "href": "/", "title": "umd0xr1h" },
+    { "uuid": "2j0vebyq", "href": "", "title": "qsq5oknm" },
+    { "uuid": "knsmgzuq", "href": "", "title": "gtk57y51" },
+    { "uuid": "myr3vod8", "href": "", "title": "hp5h226m" }
+  ],
+  "notes": [],
+  "identifier": "",
+  "urls": [],
+  "measurements": [],
+  "images": [
+    { "uuid": "8z02z4gb", "src": "125fd611e9a3401e9d9ef20fe686048e.png", "href": "", "title": "xue8abpp"},
+    { "uuid": "z9fiwtzx", "src": "b76afaff3f714dfd9a0f0431166a4ce9-1.png", "href": "", "title": "u5iecaxw" },
+    { "uuid": "b0ij1oub", "src": "b76afaff3f714dfd9a0f0431166a4ce9-2.png", "href": "", "title": "u5iecaxw" },
+    { "uuid": "e2q2tv2j", "src": "072f858250044459885d429e76734984-1.png", "href": "", "title": "u5iecaxw" },
+    { "uuid": "ta1ttu2d", "src": "072f858250044459885d429e76734984-2.png", "href": "", "title": "u5iecaxw" },
+    { "uuid": "h2299smg", "src": "b5baa5b2e72941a0ac3bca93734bc81e-2.png", "href": "", "title": "u5iecaxw" },
+    { "uuid": "ezlvmggu", "src": "fa805db406824a31bfd3fe25df11d54f-2.png", "href": "", "title": "u5iecaxw" }
+  ],
+  "metadata": [],
+  "image_groups": [
+    { "uuid": "q3db8sfb", "images": ["z9fiwtzx", "b0ij1oub"] },
+    { "uuid": "xc3s556d", "images": ["e2q2tv2j", "ta1ttu2d"] },
+    { "uuid": "tgh4nda5", "images": ["8z02z4gb", "h2299smg"] },
+    { "uuid": "hwahju3p", "images": ["8z02z4gb", "ezlvmggu"] }
+  ]
+}
