@@ -1,0 +1,29 @@
+{
+  "uuid": "b5os1kin",
+  "href": "",
+  "title": "d5yee88s",
+  "type": "specimen",
+  "og_image": "596cb89935ff426693f5170a1543246e-2.png",
+  "emperor": { "uuid": "zn6uo1wi", "href": "", "title": "bn3shibu" },
+  "ancestors": [
+    { "uuid": "jwdxeuqn", "href": "/", "title": "umd0xr1h" },
+    { "uuid": "2j0vebyq", "href": "", "title": "qsq5oknm" },
+    { "uuid": "0xhmq1vm", "href": "", "title": "kry2y2hc" },
+    { "uuid": "5opd9uh4", "href": "", "title": "hchmtger" }
+  ],
+  "notes": [],
+  "identifier": "",
+  "urls": [],
+  "measurements": [],
+  "images": [
+    { "uuid": "j0e250lo", "src": "596cb89935ff426693f5170a1543246e-1.png", "title": "hm2raad2" },
+    { "uuid": "no8i7znk", "src": "596cb89935ff426693f5170a1543246e-2.png", "title": "hm2raad2" },
+    { "uuid": "0ubberbz", "src": "82446716eb474f86a0cb78351920884e-1.png", "title": "hm2raad2" },
+    { "uuid": "ip60hlsg", "src": "82446716eb474f86a0cb78351920884e-2.png", "title": "hm2raad2" }
+  ],
+  "metadata": [],
+  "image_groups": [
+    { "uuid": "de4o5829", "images": ["j0e250lo", "no8i7znk"] },
+    { "uuid": "kk6k1u2v", "images": ["0ubberbz", "ip60hlsg"] }
+  ]
+}

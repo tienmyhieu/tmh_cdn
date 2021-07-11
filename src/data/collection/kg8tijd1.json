@@ -1,0 +1,53 @@
+{
+  "uuid": "kg8tijd1",
+  "href": "",
+  "title": "wccars5z",
+  "type": "collection",
+  "og_image": "",
+  "notes": [
+    { "uuid": "ys5hjiqg", "lexicon": "identifier", "value": "VN 32-3" },
+    { "uuid": "j2k3dmq8", "lexicon": "identifier", "value": "VN 31-3" },
+    { "uuid": "cw2xrgdm", "lexicon": "identifier", "value": "VN 32-2" },
+    { "uuid": "0bzhknlx", "lexicon": "identifier", "value": "VN 32-5" },
+    { "uuid": "vo42qx8w", "lexicon": "identifier", "value": "VN 31-4" },
+    { "uuid": "boybp1ot", "lexicon": "identifier", "value": "VN 32-1" },
+    { "uuid": "2htiosbs", "lexicon": "identifier", "value": "VN 32-4" },
+    { "uuid": "kg8gb07z", "lexicon": "identifier", "value": "VN 31-2" },
+    { "uuid": "1vhhxjt4", "lexicon": "identifier", "value": "VN 32-7" },
+    { "uuid": "escru2ic", "lexicon": "identifier", "value": "VN 32-6" }
+  ],
+  "emperor": { "uuid": "4n18conu", "href": "", "title": "syqewlhz" },
+  "reference": { "uuid": "0xhmq1vm", "href": "", "title": "kry2y2hc" },
+  "ancestors": [
+    { "uuid": "jwdxeuqn", "href": "/", "title": "umd0xr1h" },
+    { "uuid": "2j0vebyq", "href": "", "title": "qsq5oknm" },
+    { "uuid": "0xhmq1vm", "href": "", "title": "kry2y2hc" }
+  ],
+  "images": [],
+  "measurements": [],
+  "urls": [],
+  "metadata": [],
+  "specimens": [
+    { "uuid": "vg59e6mz", "metadata": [], "href": "", "title": "pssm79u7", "notes": ["ys5hjiqg"], "identifier": "VN 32-3", "urls": [], "is_entity": "0", "images": [], "number": "01" },
+    { "uuid": "d8hxkjac", "metadata": [], "href": "", "title": "jlousjfx", "notes": ["j2k3dmq8"], "identifier": "VN 31-3", "urls": [], "is_entity": "0", "images": [], "number": "02" },
+    { "uuid": "veelm3gn", "metadata": [], "href": "", "title": "469t37ba", "notes": ["cw2xrgdm"], "identifier": "VN 32-2", "urls": [], "is_entity": "0", "images": [], "number": "03" },
+    { "uuid": "916jibrk", "metadata": [], "href": "", "title": "3oxdzwov", "notes": ["0bzhknlx"], "identifier": "VN 32-5", "urls": [], "is_entity": "0", "images": [], "number": "04" },
+    { "uuid": "5pknfbld", "metadata": [], "href": "", "title": "trcadm0j", "notes": ["vo42qx8w"], "identifier": "VN 31-4", "urls": [], "is_entity": "0", "images": [], "number": "05" },
+    { "uuid": "vdjsh0ys", "metadata": [], "href": "", "title": "y5k1qa4u", "notes": ["boybp1ot"], "identifier": "VN 32-1", "urls": [], "is_entity": "0", "images": [], "number": "06" },
+    { "uuid": "vwnti6id", "metadata": [], "href": "", "title": "nh9pjmto", "notes": ["2htiosbs"], "identifier": "VN 32-4", "urls": [], "is_entity": "0", "images": [], "number": "07" },
+    { "uuid": "rfms6dnc", "metadata": [], "href": "", "title": "k1gxysrq", "notes": ["kg8gb07z"], "identifier": "VN 31-2", "urls": [], "is_entity": "0", "images": [], "number": "08" },
+    { "uuid": "vcfsr4jw", "metadata": [], "href": "", "title": "h6c6apg1", "notes": ["1vhhxjt4"], "identifier": "VN 32-7", "urls": [], "is_entity": "0", "images": [], "number": "09" },
+    { "uuid": "dqffvpld", "metadata": [], "href": "", "title": "jfpq9toa", "notes": ["escru2ic"], "identifier": "VN 32-6", "urls": [], "is_entity": "0", "images": [], "number": "10" }
+  ],
+  "emperor_coins": [
+    { "uuid": "21w79n9l", "href": "", "title": "mabtj2ur", "specimens": ["vg59e6mz"], "number": "01" },
+    { "uuid": "94sf6wna", "href": "", "title": "jcafwu73", "specimens": ["d8hxkjac", "veelm3gn"], "number": "02" },
+    { "uuid": "916jibrk", "href": "", "title": "3oxdzwov", "specimens": ["916jibrk"], "number": "04" },
+    { "uuid": "ttlnb3hy", "href": "", "title": "j5or39g2", "specimens": ["5pknfbld"], "number": "05" },
+    { "uuid": "un1fb8rj", "href": "", "title": "uy8tagiv", "specimens": ["vdjsh0ys"], "number": "06" },
+    { "uuid": "31b81jgf", "href": "", "title": "gcbgwjcb", "specimens": ["vwnti6id"], "number": "07" },
+    { "uuid": "xo7ni42g", "href": "", "title": "r6k0ip08", "specimens": ["rfms6dnc"], "number": "08" },
+    { "uuid": "ya6xeq7c", "href": "", "title": "ecpzzsm5", "specimens": ["vcfsr4jw"], "number": "09" },
+    { "uuid": "fezhzl9c", "href": "", "title": "nfqce39s", "specimens": ["dqffvpld"], "number": "10" }
+  ]
+}
