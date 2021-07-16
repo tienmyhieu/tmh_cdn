@@ -1,0 +1,58 @@
+{
+  "uuid": "fq6uavwx",
+  "href": "",
+  "title": "5jp24j43",
+  "type": "collection",
+  "og_image": "",
+  "notes": [
+    { "uuid": "2ffu1oj8", "lexicon": "identifier", "value": "453" },
+    { "uuid": "5ti4ftzh", "lexicon": "identifier", "value": "454" },
+    { "uuid": "y78hls22", "lexicon": "identifier", "value": "456" },
+    { "uuid": "wl2mzjxa", "lexicon": "identifier", "value": "452" },
+    { "uuid": "zqebyrtb", "lexicon": "identifier", "value": "451" },
+    { "uuid": "wj5e2z09", "lexicon": "identifier", "value": "450" },
+    { "uuid": "hbt3m3t7", "lexicon": "identifier", "value": "455" },
+    { "uuid": "7bw4a7v4", "lexicon": "identifier", "value": "457" }
+  ],
+  "emperor": { "uuid": "4n18conu", "href": "", "title": "syqewlhz" },
+  "reference": { "uuid": "egjosprx", "href": "", "title": "ohjkkjr9" },
+  "ancestors": [
+    { "uuid": "jwdxeuqn", "href": "/", "title": "umd0xr1h" },
+    { "uuid": "2j0vebyq", "href": "", "title": "qsq5oknm" },
+    { "uuid": "egjosprx", "href": "", "title": "ohjkkjr9" }
+  ],
+  "images": [
+    { "uuid": "8z02z4gb", "src": "125fd611e9a3401e9d9ef20fe686048e.png", "href": "", "title": "syqewlhz" },
+    { "uuid": "arrh6da8", "src": "ab00edfe230a4aaeb1785b030df00ce9-2.png", "href": "", "title": "a7rrpjyo" },
+    { "uuid": "zfobkwie", "src": "31738c0b289349ec89fddb84d8899051-2.png", "href": "", "title": "9kux14oo" },
+    { "uuid": "zrb5z4lm", "src": "c6cc971849f04d94aece745d000c4e3c-2.png", "href": "", "title": "4w94oy2c" },
+    { "uuid": "1nbdeeo2", "src": "5fb2f19c3cbf4d8ea12db5424a641559-2.png", "href": "", "title": "ifa73q7o" },
+    { "uuid": "l6dndium", "src": "a0b0185552ff4d298d5d0c8cd1dd3e06-2.png", "href": "", "title": "ac2xm18w" },
+    { "uuid": "cor6th4o", "src": "4e533e7ade944207b86b3227726b6907-2.png", "href": "", "title": "kpdm9tsx" },
+    { "uuid": "zzyrb7t3", "src": "90c19a327ef047b082670fd54a3b2ca3-2.png", "href": "", "title": "ecpzzsm5" },
+    { "uuid": "o4mdm6r3", "src": "71fa6c1f03994ceb84162e2dfd4defad-2.png", "href": "", "title": "nfqce39s" }
+  ],
+  "measurements": [],
+  "urls": [],
+  "metadata": [],
+  "specimens": [
+    { "uuid": "i3wp8nn5", "metadata": [], "href": "", "title": "0rgutyrw", "notes": ["2ffu1oj8"], "identifier": "453", "urls": [], "is_entity": "0", "images": ["arrh6da8"], "number": "1" },
+    { "uuid": "1ztduyi8", "metadata": [], "href": "", "title": "ss90idkj", "notes": ["5ti4ftzh"], "identifier": "454", "urls": [], "is_entity": "0", "images": ["zfobkwie"], "number": "2" },
+    { "uuid": "52z2s51u", "metadata": [], "href": "", "title": "smh85oud", "notes": ["y78hls22"], "identifier": "456", "urls": [], "is_entity": "0", "images": ["zrb5z4lm"], "number": "3" },
+    { "uuid": "8k4ohmvx", "metadata": [], "href": "", "title": "qg611qeo", "notes": ["wl2mzjxa"], "identifier": "452", "urls": [], "is_entity": "0", "images": ["1nbdeeo2"], "number": "4" },
+    { "uuid": "0275sxxu", "metadata": [], "href": "", "title": "f0rqkn0a", "notes": ["zqebyrtb"], "identifier": "451", "urls": [], "is_entity": "0", "images": ["l6dndium"], "number": "5" },
+    { "uuid": "5cgdniub", "metadata": [], "href": "", "title": "rpchfv1d", "notes": ["wj5e2z09"], "identifier": "450", "urls": [], "is_entity": "0", "images": ["cor6th4o"], "number": "6" },
+    { "uuid": "fda9cyy9", "metadata": [], "href": "", "title": "8qvwpwad", "notes": ["hbt3m3t7"], "identifier": "455", "urls": [], "is_entity": "0", "images": ["zzyrb7t3"], "number": "7" },
+    { "uuid": "uhmzn5ul", "metadata": [], "href": "", "title": "eefkiilp", "notes": ["7bw4a7v4"], "identifier": "457", "urls": [], "is_entity": "0", "images": ["o4mdm6r3"], "number": "8" }
+  ],
+  "emperor_coins": [
+    { "uuid": "yxyxg7p4", "href": "", "title": "a7rrpjyo", "specimens": ["i3wp8nn5"], "number": "1" },
+    { "uuid": "4pejrum4", "href": "", "title": "9kux14oo", "specimens": ["1ztduyi8"], "number": "2" },
+    { "uuid": "zc5zh2r3", "href": "", "title": "4w94oy2c", "specimens": ["52z2s51u"], "number": "3" },
+    { "uuid": "rwjtazro", "href": "", "title": "ifa73q7o", "specimens": ["8k4ohmvx"], "number": "4" },
+    { "uuid": "zq1qj9qd", "href": "", "title": "ac2xm18w", "specimens": ["0275sxxu"], "number": "5" },
+    { "uuid": "ulvaw32e", "href": "", "title": "kpdm9tsx", "specimens": ["5cgdniub"], "number": "6" },
+    { "uuid": "ya6xeq7c", "href": "", "title": "ecpzzsm5", "specimens": ["fda9cyy9"], "number": "7" },
+    { "uuid": "fezhzl9c", "href": "", "title": "nfqce39s", "specimens": ["uhmzn5ul"], "number": "8" }
+  ]
+}

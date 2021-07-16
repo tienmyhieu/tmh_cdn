@@ -404,5 +404,14 @@
   { "uuid": "z5etqpp2", "href": "Numismatique_Annamite_Minh_Mệnh_thông_bảo_Liễm_phúc_tích_dân", "title": "Minh Mệnh thông bảo Liễm phúc tích dân", "type": "specimen", "identifier": "kn8t4lpl", "language": "vi" },
   { "uuid": "idtptp9y", "href": "Numismatique_Annamite_Minh_Mệnh_thông_bảo_Tứ_phương_vi_tắc", "title": "Minh Mệnh thông bảo Tứ phương vi tắc", "type": "specimen", "identifier": "wdjhipto", "language": "vi" },
   { "uuid": "9p9fpm45", "href": "Numismatique_Annamite_Minh_Mệnh_thông_bảo_Cương_kiện_trung_chính", "title": "Minh Mệnh thông bảo Cương kiện trung chính", "type": "specimen", "identifier": "efmss8j9", "language": "vi" },
-  { "uuid": "nntjidb4", "href": "Numismatique_Annamite_Minh_Mệnh_thông_bảo_Gia_cấp_nhân_túc", "title": "Minh Mệnh thông bảo Gia cấp nhân túc", "type": "specimen", "identifier": "dbhz8ww7", "language": "vi" }
+  { "uuid": "nntjidb4", "href": "Numismatique_Annamite_Minh_Mệnh_thông_bảo_Gia_cấp_nhân_túc", "title": "Minh Mệnh thông bảo Gia cấp nhân túc", "type": "specimen", "identifier": "dbhz8ww7", "language": "vi" },
+
+  { "uuid": "0rgutyrw", "href": "Numismatique_Annamite_Thiệu_Trị_thông_bảo_Hà_lưu_thuận_quỉ_niên_cốc_phong_đăng", "title": "Thiệu Trị thông bảo Hà lưu thuận quỉ niên cốc phong đăng", "type": "collection", "identifier": "i3wp8nn5", "language": "vi" },
+  { "uuid": "ss90idkj", "href": "Numismatique_Annamite_Thiệu_Trị_thông_bảo_Quân_quân_thần_thần_phụ_phụ_tử_tử", "title": "Thiệu Trị thông bảo Quân quân thần thần phụ phụ tử tử", "type": "collection", "identifier": "1ztduyi8", "language": "vi" },
+  { "uuid": "smh85oud", "href": "Numismatique_Annamite_Thiệu_Trị_thông_bảo_Ngũ_thời_thuận_phủ_thứ_tích_kỳ_ngưng", "title": "Thiệu Trị thông bảo Ngũ thời thuận phủ thứ tích kỳ ngưng", "type": "collection", "identifier": "52z2s51u", "language": "vi" },
+  { "uuid": "qg611qeo", "href": "Numismatique_Annamite_Thiệu_Trị_thông_bảo_Tứ_phương_vi_tắc", "title": "Thiệu Trị thông bảo Tứ phương vi tắc", "type": "collection", "identifier": "8k4ohmvx", "language": "vi" },
+  { "uuid": "f0rqkn0a", "href": "Numismatique_Annamite_Thiệu_Trị_thông_bảo_Tứ_hải_cộng_chi_vạn_thế_truyền_chi", "title": "Thiệu Trị thông bảo Tứ hải cộng chi vạn thế truyền chi", "type": "collection", "identifier": "0275sxxu", "language": "vi" },
+  { "uuid": "rpchfv1d", "href": "Numismatique_Annamite_Thiệu_Trị_thông_bảo_Vạn_thế_vĩnh_lại", "title": "Thiệu Trị thông bảo Vạn thế vĩnh lại", "type": "collection", "identifier": "5cgdniub", "language": "vi" },
+  { "uuid": "8qvwpwad", "href": "Numismatique_Annamite_Thiệu_Trị_thông_bảo_Dụ_quốc_lợi_dân", "title": "Thiệu Trị thông bảo Dụ quốc lợi dân", "type": "collection", "identifier": "fda9cyy9", "language": "vi" },
+  { "uuid": "eefkiilp", "href": "Numismatique_Annamite_Thiệu_Trị_thông_bảo_Giải_ôn_phụ_tài", "title": "Thiệu Trị thông bảo Giải ôn phụ tài", "type": "collection", "identifier": "uhmzn5ul", "language": "vi" }
 ]
