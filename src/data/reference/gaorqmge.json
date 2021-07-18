@@ -1,0 +1,17 @@
+{
+  "uuid": "gaorqmge",
+  "href": "",
+  "title": "bar11gqo",
+  "metadata": [],
+  "type": "reference",
+  "og_image": "",
+  "ancestors": [
+    { "uuid": "jwdxeuqn", "href": "/", "title": "umd0xr1h" },
+    { "uuid": "2j0vebyq", "href": "", "title": "qsq5oknm" }
+  ],
+  "collections": [
+    { "uuid": "l1z892nf", "lexicon": "types", "types": "24", "href": "", "title": "1w76jnej" },
+    { "uuid": "8gi2or32", "lexicon": "types", "types": "4", "href": "", "title": "nxprctrp" },
+    { "uuid": "nzkog6fr", "lexicon": "types", "types": "17", "href": "", "title": "f1shz8lr" }
+  ]
+}
