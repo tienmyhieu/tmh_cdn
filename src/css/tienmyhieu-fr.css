@@ -1,0 +1,257 @@
+body, .tmh_img, .tmh_img_bordered {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Helvetica', sans-serif;
+    height: 100%;
+}
+
+html {
+    height: 100%;
+}
+
+:lang(de), :lang(en), :lang(fr), :lang(vi) {
+    font-family: 'Helvetica', sans-serif;
+}
+
+:lang(ja), :lang(zh) {
+    font-family: 'Helvetica', "KaiTi", "??", STKaiti, "????", sans-serif;
+}
+
+
+.tmh_a, .tmh_a_external, .tmh_a_plate, .tmh_element_sub_route_parent, .tmh_a_reference {
+    color: #3355CC;
+}
+
+.tmh_top_menu a {
+    font-size: 0.7em;
+}
+
+.tmh_a, .tmh_a_external, .tmh_a_img, .tmh_a_plate, .tmh_a_reference {
+    line-height: 1.6em;
+    text-decoration: none;
+}
+
+.tmh_languages a {
+    font-size: 0.7em;
+}
+
+.tmh_languages {
+    border-bottom: 2px solid #F8F8F8;
+    width: 100%;
+}
+
+.tmh_a:hover, .tmh_a_external:hover, .tmh_a_plate:hover, .tmh_a_reference:hover {
+    text-decoration: underline;
+}
+
+.tmh_a_plate {
+    font-size: 0.8em;
+}
+
+.tmh_a_reference {
+    font-size: 0.8em;
+}
+
+.tmh_body {
+    direction: ltr;
+    writing-mode: horizontal-tb;
+}
+
+.tmh_creative_commons, .tmh_inscriptions, .tmh_list_level_2, .tmh_list_level_2_st, .tmh_note, .tmh_reference, .tmh_specimen {
+    font-size: 0.8em;
+}
+
+.tmh_creative_commons, .tmh_element_title, .tmh_inscriptions, .tmh_notes, .tmh_references, .tmh_title {
+    margin-top: 0.4em;
+    margin-bottom: 0.4em;
+}
+
+.tmh_creative_commons, .tmh_title {
+    margin-left: 0.4em;
+}
+
+.tmh_element_route, .tmh_element_sub_route, .tmh_list_level_2, .tmh_list_level_2_st {
+    display: list-item;
+    list-style-type: circle;
+}
+
+.tmh_element_sub_route_wrapper {
+    display: list-item;
+    list-style-type: disc;
+    margin-left: 1.6em;
+    list-style-position: outside;
+} 
+
+.tmh_element_route {
+    margin-left: 1.6em;
+}
+
+.tmh_element_sub_route, .tmh_list_level_2, .tmh_list_level_2_st {
+    line-height: 1.2em;
+    margin-left: 1.2em;
+}
+
+.tmh_element_sub_route_parent {
+    margin-top: 0.4em;
+}
+
+.tmh_element_title {
+    font-size: 1.2em;
+    margin-left: 0.2em;
+}
+
+.tmh_elements, .tmh_image_route, .tmh_inscriptions, .tmh_note, .tmh_specimen, .tmh_reference {
+    margin-left: 1.2em;    
+}
+
+.tmh_elements {
+    margin-bottom: 1.2em;    
+}
+
+.tmh_img_bordered {
+    border: 1px solid #CCCCCC;
+    margin-right: 0.8em
+}
+
+.tmh_inscription {
+    font-family: 'Nom Na Tong','HAN NOM A','HAN NOM B','Sun-ExtA','Sun-ExtB','Ming-Lt-HKSCS-UNI-H','Ming-Lt-HKSCS-ExtB','HanaMinA','HanaMinB','HanaMin','PingFang TC','MingLiU','MingLiU-ExtB','MingLiU_HKSCS','MingLiU_HKSCS-ExtB','SimSun','SimSun-ExtB','Arial Unicode MS','TITUS Cyberbit Basic',sans-serif;
+}
+
+.tmh_inscriptions {
+    margin-bottom: 0.8em;
+}
+
+.tmh_element_route, .tmh_reference {
+   line-height: 1.2;
+}
+
+.tmh_list_level_1 {
+    margin-bottom: 1.2em;
+}
+
+.tmh_list_level_2_inscription {
+    display: list-item;
+    list-style-type: circle;
+    line-height: 1.6em;
+    margin-left: 3.2em;
+    font-family: 'Nom Na Tong','HAN NOM A','HAN NOM B','Sun-ExtA','Sun-ExtB','Ming-Lt-HKSCS-UNI-H','Ming-Lt-HKSCS-ExtB','HanaMinA','HanaMinB','HanaMin','PingFang TC','MingLiU','MingLiU-ExtB','MingLiU_HKSCS','MingLiU_HKSCS-ExtB','SimSun','SimSun-ExtB','Arial Unicode MS','TITUS Cyberbit Basic',sans-serif;
+    font-size: 0.8em;
+}
+
+.tmh_list_level_2_st {
+    text-decoration: line-through;
+}
+
+.tmh_reference span, .tmh_reference a {
+   line-height: 1.6em;
+}
+
+.tmh_title {
+    font-size: 1.6em;
+}
+
+.tmh_top_bar {
+    font-size: 0.8em;
+}
+
+.tmh_navigation {
+    font-size: 0.8em;
+    margin-left: 0.4em;
+    margin-top: 0.4em;
+    border-bottom: 2px solid #F8F8F8;    
+}
+
+.tmh_navigation_chevron {
+    margin-left: 0.4em;
+    margin-right: 0.4em;
+}
+
+.tmh_large_ideograph {
+    font-family: 'Nom Na Tong','HAN NOM A','HAN NOM B','Sun-ExtA','Sun-ExtB','Ming-Lt-HKSCS-UNI-H','Ming-Lt-HKSCS-ExtB','HanaMinA','HanaMinB','HanaMin','PingFang TC','MingLiU','MingLiU-ExtB','MingLiU_HKSCS','MingLiU_HKSCS-ExtB','SimSun','SimSun-ExtB','Arial Unicode MS','TITUS Cyberbit Basic',sans-serif;
+    font-size: 2.8em;
+}
+
+.tmh_table_column {
+  border: 1px solid #D5D5D5;
+  padding: 0.4em;
+}
+
+.tmh_table_row {
+}
+
+.tmh_table_header_row {
+  background-color: #CCCCCC;
+}
+
+.tmh_body {
+    background-color: #F8F8F8;
+    direction: ltr;
+    height: 100vh;
+    margin-left: 0.2em;
+    writing-mode: horizontal-tb;
+}
+
+.tmh_content {
+    background-color: #FFFFFF;
+    height: 100vh;
+    margin: auto;
+    width: 70%;
+}
+
+.tmh_top_menu {
+    border-bottom: 2px solid #F8F8F8;
+    width: 100%;
+}
+
+.tmh_content_title {
+    font-size: 1.4em;
+    margin-left: 0.2em;
+    margin-top: 0.8em;    
+    width: 100%;
+}
+
+
+.tmh_alternatives {
+    float: right;
+    margin-right: 0.2em;
+}
+
+.tmh_route_groups {
+    margin-left: 0.2em;
+    margin-top: 1.4em;
+}
+
+.tmh_content_description {
+    font-size: 0.9em;
+    margin-left: 1.2em;
+}
+
+@media screen and (max-width: 480px) {
+  .tmh_creative_commons, .tmh_element_sub_route, .tmh_inscriptions, .tmh_note, .tmh_reference, .tmh_specimen, .tmh_list_level_2_inscription, .tmh_navigation 
+  {
+      font-size: 0.6em;
+  }
+
+  .tmh_elements, .tmh_image_route, .tmh_inscriptions, .tmh_note, .tmh_reference {
+      margin-left: 0.8em;    
+  }
+  
+  .tmh_element_route, .tmh_specimen {
+      font-size: 0.8em;
+      margin-left: 1.2em;
+  }
+  
+  .tmh_element_title {
+      font-size: 0.8em;
+      margin-left: 0.4em;
+  }
+  
+  .tmh_title {
+      font-size: 1.2em;
+      margin-left: 0.2em;
+  }
+}
+
